@@ -1,5 +1,5 @@
 # MultiFDRnet
-MultiFDRnet is a method for identifying significantly mutated subnetworks using multiplex PPI networks in human diseases.
+MultiFDRnet is a method for identifying significantly mutated subnetworks using multiple PPI networks in human diseases.
 
 ## Setup
 
