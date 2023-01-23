@@ -63,7 +63,7 @@ See the `Examples` section for a full minimal working example of MultiFDRnet.
 ### Output
 The output file is a plain text file organized as follows:
 
-    Seed Gene, Running Time, Optimization Status, Subnetwork
+    Seed Gene   Running Time    Optimization Status Subnetwork
 ### Usage
 
   usage: multiplexFDRnet.py [-h] -igi INPUT_GENE_INDEX [INPUT_GENE_INDEX ...]
